@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "ULSES"
+  given-names: "ANNA_GRACE"
+  orcid: "https://orcid.org/0000-0002-9031-0824"
+title: "ALMA Exoplanet Astrometry-2023"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-01-20
+url: "https://github.com/AnnaUlses/FYP-2023"
