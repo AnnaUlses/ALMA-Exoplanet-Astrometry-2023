@@ -5,6 +5,8 @@ Created on Thu Oct 20 11:06:06 2022
 
 @author: annagraceulses
 """
+#this file calculates data to be used for plotting and interpretation, but if you want to run it you have to download and import all the csv files in
+#this repository
 
 import pandas as pd
 import numpy as np
