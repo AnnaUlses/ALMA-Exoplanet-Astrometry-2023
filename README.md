@@ -1,4 +1,7 @@
 # ALMA Band 7 Astrometry
+
+This repository contains code and data for an analysis of the feasbility of using ALMA for astrometric exoplanet searches. If you found this repository you presumably found my paper first so I won't explain the results here. The following is an explanation of what each of the data files contain. Cheers
+
 ast_pars_149 = minimum planet mass & semi-major axis, astrometric accuracy/signature
 brighter3mag_photometry = fitted photometry parameters for larger sample of 223 (before cuts were made on declinations)
 converted_mags = all of Hipparcos DR2 magnitudes converted to Gaia passband
